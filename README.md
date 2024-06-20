@@ -18,4 +18,4 @@ The BMI Calculator is a simple application that allows users to calculate their 
 
 ## Demo
 
-![Demo GIF](demo.gif)
+![Demo GIF](demo/demo.gif)
